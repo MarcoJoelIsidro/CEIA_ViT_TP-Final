@@ -1,0 +1,9 @@
+{
+    "eval_loss": 5.801806449890137,
+    "eval_model_preparation_time": 0.0075,
+    "eval_BLEU": 0.04015288433980999,
+    "eval_CIDEr": 0.4285219921623448,
+    "eval_runtime": 33.5007,
+    "eval_samples_per_second": 37.939,
+    "eval_steps_per_second": 4.746
+}
