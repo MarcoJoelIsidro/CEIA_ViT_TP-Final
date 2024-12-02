@@ -49,7 +49,8 @@ Para evaluar la calidad de las descripciones generadas por el modelo, se utiliza
    - Tiene en cuenta la importancia del contexto, priorizando las descripciones que capturan los aspectos más relevantes de la imagen.
 
 ### Proceso de Entrenamiento
-- El modelo BLIP (variante base) fue entrenado durante **5 épocas** utilizando un conjunto reducido del dataset **Flickr30k** debido a restricciones computacionales.
+- El modelo BLIP (variante base) fue entrenado durante **5 épocas** utilizando un conjunto reducido del dataset **Flickr30k** debido a restricciones computacionales. El mismo se puede descargar desde: https://drive.google.com/file/d/1Hio124GdQnn1dleFEzo_Qf_T1qoHJxiS/view?usp=drive_link
+
 - **Hardware:** Se utilizó una GPU **Tesla A100** en Google Colab Pro con 40 GB de VRAM, lo que permitió realizar el fine-tuning del modelo.
 - La pérdida durante el entrenamiento disminuyó de **3.4** a **0.5**, mostrando una convergencia estable.
 
