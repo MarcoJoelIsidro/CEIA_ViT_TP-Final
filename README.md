@@ -33,6 +33,15 @@ CEIA_VIT_TP-FINAL/
 └── ViT_Informe_Grupo_2.pdf    # Informe final del proyecto
 ```
 
+## Instalación 
+Para clonar el repositorio localmente, dirigirse al directorio deseado y ejecutar:
+
+```python
+git clone https://github.com/MarcoJoelIsidro/CEIA_ViT_TP-Final.git
+cd PI_Challenge
+```
+Dentro de este, se encuentra el archivo TP Final ViT.ipynb, el cual contiene el código fuente. Esté fue ejecutado en Google Colab Pro como se indica más adelante. En caso de no contar con esa versión de Google Colab, puede descargar el modelo entrenado en el link que se indica en la sección de entrenamiento.
+
 ## Métricas y Resultados Obtenidos
 
 ### Métricas Utilizadas
@@ -67,6 +76,8 @@ Para evaluar la calidad de las descripciones generadas por el modelo, se utiliza
 3. **Ejemplos de Predicciones:**
    - **Descripción generada:** _"A young boy in an orange shirt playing with a toy car on the floor of a house."_  
    - **Descripción de referencia:** _"A little boy with an orange shirt is riding his blue and white toy car."_
+  
+<img width="286" alt="image" src="https://github.com/user-attachments/assets/4ea9b3db-ba88-496e-aa07-06ef106336f3">
 
    Aunque el modelo logró captar aspectos importantes de la imagen, en algunos casos, las descripciones fueron más generales.
 
