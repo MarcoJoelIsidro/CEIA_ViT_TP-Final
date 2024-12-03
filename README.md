@@ -38,7 +38,6 @@ Para clonar el repositorio localmente, dirigirse al directorio deseado y ejecuta
 
 ```python
 git clone https://github.com/MarcoJoelIsidro/CEIA_ViT_TP-Final.git
-cd PI_Challenge
 ```
 Dentro de este, se encuentra el archivo TP Final ViT.ipynb, el cual contiene el código fuente. Esté fue ejecutado en Google Colab Pro como se indica más adelante. En caso de no contar con esa versión de Google Colab, puede descargar el modelo entrenado en el link que se indica en la sección de entrenamiento.
 
