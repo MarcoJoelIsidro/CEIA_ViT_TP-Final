@@ -77,7 +77,9 @@ Para evaluar la calidad de las descripciones generadas por el modelo, se utiliza
    - **Descripción generada:** _"A young boy in an orange shirt playing with a toy car on the floor of a house."_  
    - **Descripción de referencia:** _"A little boy with an orange shirt is riding his blue and white toy car."_
   
-<img width="286" alt="image" src="https://github.com/user-attachments/assets/4ea9b3db-ba88-496e-aa07-06ef106336f3">
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/4ea9b3db-ba88-496e-aa07-06ef106336f3" alt="Imagen centrada" width="286">
+</div>
 
    Aunque el modelo logró captar aspectos importantes de la imagen, en algunos casos, las descripciones fueron más generales.
 
